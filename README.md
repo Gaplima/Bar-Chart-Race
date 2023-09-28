@@ -1,5 +1,5 @@
 # Bar Chart Race
- Project for the 'Programming Language I' subject, made in April 2021
+ 2nd Project for the 'Programming Language I' class, made in April 2021
 
 Linguagem de Programação I - T01
 Projeto de Programação #2
